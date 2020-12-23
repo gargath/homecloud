@@ -1,4 +1,4 @@
-module github.com/gargath/template
+module github.com/gargath/homecloud
 
 go 1.14
 
